@@ -1,2 +1,4 @@
 # raw
-This is for android prosessor faker
+RETIRED!
+
+You could play games like fortnite with this!
